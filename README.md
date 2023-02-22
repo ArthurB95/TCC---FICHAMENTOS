@@ -8,7 +8,7 @@
 - Overview of Mining Software Repositories. 2020 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus). doi: 10.1109/EIConRus49466.2020.9039225
 - Mining software repositories with a collaborative heuristic repository. ACM: Proceedings of the 43rd International Conference on Software Engineering: New Ideas and Emerging Results. doi: https://dl.acm.org/doi/10.1109/ICSE-NIER52604.2021.00030
 - An empirical evaluation of GitHub copilot's code suggestions. ACM: Proceedings of the 19th International Conference on Mining Software Repositories. doi: https://dl.acm.org/doi/abs/10.1145/3524842.3528470
-- Extracting Corrective Actions from Code Repositories. 2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR). doi: 10.1145/3524842.3528517 
+- On the Violation of Honesty in Mobile Apps: Automated Detection and Categories. 2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR). doi: 10.1145/3524842.3527937 
 - Inferência da Familiaridade de Código por Meio da Mineração de Repositórios de Software. ANAIS DO SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE (SBQS). doi: https://doi.org/10.5753/sbqs.2017.15095
 - Analysis the effect of data mining techniques on database. Advances in Engineering Software. doi: https://doi.org/10.1016/j.advengsoft.2011.12.013 
 - Advance Recommendation System for the Formation of More Prolific and Dynamic Software Project Teams. 2019 IEEE 10th International Conference on Software Engineering and Service Science (ICSESS). doi: 10.1109/ICSESS47205.2019.9040791
