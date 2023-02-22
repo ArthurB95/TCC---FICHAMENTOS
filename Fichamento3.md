@@ -20,7 +20,7 @@ menos frequência, em vez, daqueles que são selecionados por outras métricas.
 
 * _Number of issues_ (Número de problemas) usuário do GitHub pode criar uma issue em um repositório de destino (página 2).
 * _Number of labels_ (Número de rótulos) as labels categorizam os problemas e puxam solicitações em grupos para organizar e priorizar (página 2).
-* _Number of watchers_ (Número de observadores) usuários do GitHub que podem receber notificações dos repositórios monitorados.(página 2).
+* _Number of watchers_ (Número de observadores) usuários do GitHub que podem receber notificações dos repositórios monitorados (página 2).
 * _Number of stars_ (Número de estralas) usuários podem adicionar estrelas em um repositório do GitHub, indicando assim o seu favoritimos por um repositório especifico (página 2).
 
 ## 3. Fichamento de Citações 
