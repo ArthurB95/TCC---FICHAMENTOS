@@ -1,6 +1,6 @@
 # ARTIGOS EXPLORADOS
 
-- Competencies for Code Review. The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing, Association for Computing Machinery, Inc. doi: (https://doi.org/10.1145/3579471) (https://www.win.tue.nl/~aserebre/CSCW2023.pdf)
+- Mining DEV for social and technical insights about software development. 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR). doi: 10.1109/MSR52588.2021.00053
 - How Do Software Developers Use GitHub Actions to Automate Their Workflows? Cornell University, Software Engineering. doi: https://doi.org/10.48550/arXiv.2103.12224
 - World of Code: An Infrastructure for Mining the Universe of Open Source VCS Data. 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR). doi: 10.1109/MSR.2019.00031
 - How heated is it? Understanding GitHub locked issues. 2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR). doi: 10.1145/3524842.3527957
