@@ -18,7 +18,7 @@ importancia das plataformas de distribuição de aplicativos como executores de 
 
 ## 2. Fichamento Bibliográfico 
 
-* _Data Collection_ (Coleção de dados) processo de coletar e mensurar informações em váriáveis de interesse, utilizando uma metodologia estabelecida que permtie alguém responder as perguntas apresentadas. (página 3) .
+* _Data Collection_ (Coleção de dados) processo de coletar e mensurar informações em váriáveis de interesse, utilizando uma metodologia estabelecida que permtie alguém responder as perguntas apresentadas (página 3) .
 * _Data Labeling_ (Rotulagem de dados) grupo de amostras que foram marcados com um ou mais rótulos, pegando geralmente um conjunto de dados não rotulados e aumentar eles com tags informativas (página 3).
 * _Case Normalisation_ (Normalização de caso) processo de transformação original de revisar textos em letras minúsculas (página 4).
 
