@@ -5,7 +5,6 @@
 - World of Code: An Infrastructure for Mining the Universe of Open Source VCS Data. 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR). doi: 10.1109/MSR.2019.00031
 - How heated is it? Understanding GitHub locked issues. 2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR). doi: 10.1145/3524842.3527957
 - Usability of Mobile Applications: A Systematic Literature Study. IEEE Access. doi: 10.1109/ACCESS.2020.2981892
-- Overview of Mining Software Repositories. 2020 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus). doi: 10.1109/EIConRus49466.2020.9039225
 - Mining software repositories with a collaborative heuristic repository. ACM: Proceedings of the 43rd International Conference on Software Engineering: New Ideas and Emerging Results. doi: https://dl.acm.org/doi/10.1109/ICSE-NIER52604.2021.00030
 - An empirical evaluation of GitHub copilot's code suggestions. ACM: Proceedings of the 19th International Conference on Mining Software Repositories. doi: https://dl.acm.org/doi/abs/10.1145/3524842.3528470
 - On the Violation of Honesty in Mobile Apps: Automated Detection and Categories. 2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR). doi: 10.1145/3524842.3527937 
