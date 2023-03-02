@@ -19,10 +19,13 @@ resultado: 83% vinculam seus perfis aos perfis do GitHub e 56% a seus perfis do 
 ## 2. Fichamento Bibliográfico 
 
 * _Data collection_ (Coleção de dados) processo de coletar e mensurar informações em variáveis de interesse, numa metodologia sistemática estabelecida que permitam alguém responder perguntas de pesquisas apresentadas, teste de hipóteses e avaliar resultados (página 2).
-* _Preprocessing articles_ (Artigos de pré-processamento) n etapa de coleta de dados, recuperou o formato HTML do texto (página 2).
-* _Topic modeling setup_ (Configuração de modelagem de tópico)
+* _Preprocessing articles_ (Artigos de pré-processamento) na etapa de coleta de dados, recuperou o formato HTML do texto (página 2).
+* _Topic modeling setup_ (Configuração de modelagem de tópico) antes de prosseguir com o tópico modelagem, verifica-se os bigramas que aparecem em menos de 90 textos e menos de 200 vezes no total para reduzir o ruído no corpus (página 2).
 
 
 ## 3. Fichamento de Citações 
 
-* _""_
+* _"The assignment of posts to topics in a topic model is not one to one. "_
+* _"As all pairs of topics have some correlation between them, this network needs to be filtered."_
+* _"Here we focus on the extent to which users fill out their profiles and how often they link to other platforms"_
+* _"In future work we plan to explore the dynamic evolution of topics, to better assess DEV’s potential for forecasting trends"_
